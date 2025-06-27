@@ -1,1 +1,1 @@
-№ learning CSS and HTML
+learning CSS and HTML
